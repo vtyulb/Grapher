@@ -1,5 +1,4 @@
 Grapher
 =======
 
-My first serious program on Qt
-This is graph drawer.
+My first serious program on Qt - Graph drawer.
